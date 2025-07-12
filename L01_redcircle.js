@@ -8,12 +8,7 @@ function draw(){
     ellipse(300,200,200,200);
     fill(0, 255, 0);
     ellipse(300,400,200,200);
-    // Todo: Challenge 3 Traffic Light
-}
-
-function draw(){
     fill(255, 255, 0);
     ellipse(300,500,200,200);
-    
     // Todo: Challenge 3 Traffic Light
 }
